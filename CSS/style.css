@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+/* Banner section */
+
+.logo{
+    height: 20px;
+}
+
+.profile-pic{
+    height: 200px;
+}
+
+/* Banner End */
+
+
+
+/* About Section */
+
+.about-image{
+    height: 400px;
+    margin-left:30px;
+    border-radius: 200px;
+}
+
+/* About End */
+
+
+/* Project Section */
+
+.project-image{
+    height: 12rem;
+}
+
+.card-link{
+    text-decoration: none;
+}
+
+/* Project End */
+
+
+/* Contact Section */
+
+.contact-title{
+    margin-bottom: 30px;
+    
+}
+
+.contact-image{
+    height: 300px;
+    margin-top: 92px;
+}
+
+/* Contact End */
+
+
+
+/* Footer Section */
+
+.links{
+    margin-bottom:10px;
+}
+
+.link{
+    text-decoration: none;
+    padding: 10px;
+}
+
+/* Footer End */
